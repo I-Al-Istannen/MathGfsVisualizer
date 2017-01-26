@@ -1,0 +1,9 @@
+permissions:
+  command:
+    main: "main"
+    show-theta: "show-theta"
+    show-phi: "show-phi"
+    "show.phi.and.theta": "show phi and theta"
+    show.rho: "show rho"
+    test: "test"
+    help: "help"

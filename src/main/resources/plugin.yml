@@ -1,0 +1,12 @@
+name: MatheGfsVisualizer
+version: ${project.version}
+main: me.ialistannen.mathegfsvisualizer.MatheGfsVisualizer
+depend: ["BukkitUtilities"]
+authors: [I_Al_Istannen]
+description: ${project.description}
+
+module:
+  dependencies:
+  - "Command"
+  - "Language"
+  - "Utilities" 
